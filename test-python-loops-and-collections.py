@@ -1,4 +1,4 @@
-import python-loops-and-collections # Ensure this matches your filename exactly
+import python_loops_and_collections # Ensure this matches your filename exactly
 
 def test_collections():
     # This ensures your lists actually exist after the script runs
