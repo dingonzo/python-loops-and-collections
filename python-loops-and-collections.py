@@ -1,5 +1,5 @@
 ######################################################################
-# Script Name: Assignment4.py
+# Script Name: python-loops-and-collections.py
 # Title: Loops and Collections
 # Description: This script demonstrates the use of loops and collections 
 # in Python. It includes examples of nested loops, while loops, and for 
@@ -80,4 +80,5 @@ print("--- For Loop (75 iterations) ---")
 current_val = 0
 for i in range(75):
     print(f"Iter {i+1}: {current_val}")
+
     current_val += 3
