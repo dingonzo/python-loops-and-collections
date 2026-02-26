@@ -2,6 +2,8 @@
 
 This project is part of a Python programming series focusing on data structures (lists and dictionaries) and loop control logic.
 
+# [![Python application](https://github.com/dingonzo/python-loops-and-collections/actions/workflows/python-app.yml/badge.svg)](https://github.com/dingonzo/python-loops-and-collections/actions/workflows/python-app.yml)
+
 ## Overview
 The script `python-loops-and-collections.py` demonstrates how to:
 - Navigate **multi-dimensional lists** (lists within lists).
